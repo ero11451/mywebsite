@@ -1,0 +1,73 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; 
+}
+.bgimage{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:wh;
+}
+.image{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+.input{
+  width: 100%;
+  margin: 0% 0% 5% 0%;
+}
+.footer{
+  margin: 0% 0% 0% 0%;
+  background-image: url('../images/photo.jpg');
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hover{
+  background-color: rgb(2, 2, 39);
+  opacity: 0.6;
+  color: white;
+  position: relative;
+}
+footer{
+  color: white;
+}
+.myphoto{
+  height: 300px;
+  width: 100%;
+  
+}
+.about{
+  background-color: rgb(237, 237, 241);
+  padding: 5% 0% 5% 0%; 
+}
+.card{
+  margin: 3%;
+  border: none;
+  border-radius: 10px;
+}
+.myimage{
+  border-radius: 10px;
+}
+.contactlist{
+  margin-top: 1%;
+}
+a{
+  list-style: none;
+}
+.contactbtn{
+  background-color: rgb(40, 40, 133);
+  color: rgb(246, 247, 250);
+  border-radius:5px;
+}
+.contactbtn a {
+  color: white;
+}
+.contactlist{
+  margin-top: 15px;
+}
+.logo{
+  height: 50px;
+  width: 80px;
+}
+/*# sourceMappingURL=style.css.map */

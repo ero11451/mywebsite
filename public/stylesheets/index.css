@@ -1,0 +1,58 @@
+body{
+  padding: none;
+  margin: none;
+}
+.content{
+    background-color:rgb(43, 3, 43);
+    background: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+  }
+  .porttext{
+    margin: 35% 7% auto 5%;
+  }
+  .porttext h2{
+    font-size: 20px;
+  }
+  .porttext h1{
+    font-size: 60px;
+  }
+  .lead1{
+    letter-spacing: 2px;
+    font-size: 13px
+  }
+  .hover{
+    color: white;
+    height: 100%;
+    width: 100%;
+  }
+  .menu-btn{
+    font: 18px "Lucida Grande", Helvetica, Arial, sans-serif; 
+    margin: 0px 0px 0px 0px;
+    color: white;
+  }
+  .menu a{
+    color: black;
+    margin: 15px 0px 0px 0px; 
+  }
+  .abouttext{
+    margin: 18% 5% 0% 5%;
+
+  }
+ 
+  .cover{
+    background-color: rgb(42, 2, 48);
+    opacity: 0.9;
+    height: 100%;
+  }
+  .about-btn{
+    color: white;
+    padding: 10%  0px 0px 5%;
+  }
+  .aboutcontainer{
+    margin: 30% 0% 0% 0%;
+    color: white;
+  }
+  /*# sourceMappingURL=style.css.map */

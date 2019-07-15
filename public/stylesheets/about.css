@@ -1,0 +1,8 @@
+.bg{
+    background-image: url('../images/photo.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 100%;
+    background-color: black 
+}
